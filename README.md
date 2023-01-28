@@ -3,11 +3,11 @@ Freebasic libreria de acceso al emulador FAME de Motorola 68000
 
 Libreria (fichero .BI de FreeBasic) para acceder a la DLL del emulador FAME de Motorola 68000.
 Viene con una ROM de ejemplo de un monitor ASM 68k de una placa de desarrollo llamada ZBUG.
-La librerÃ­a FAME se puede encontrar en:
+La librería FAME se puede encontrar en:
 http://www-personal.umich.edu/~williams/archive/m68k-emulators/index.html
 
 
-Salida en pantalla de la ROM demo en ejecuciÃ³n:
+Salida en pantalla de la ROM demo en ejecución:
 ------------------------------------------------------------------
 zBug V1.0 for 68000-Based Single Board Computer (press ? for help)
 
