@@ -20,7 +20,9 @@ zBug V1.0 for 68000-Based Single Board Computer (press ? for help)
 
 
 A   About zBug V1.0
+
 B   Boot from RAM [100000] -> SP [100004] ->PC
+
 C   Clear memory with 0x0000
 
 D   Disassemble machine code to mnemonic
