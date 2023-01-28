@@ -1,4 +1,5 @@
 # FB_FAME_M68000
+$ git config --global core.autocrlf true
 Freebasic libreria de acceso al emulador FAME de Motorola 68000
 
 Libreria (fichero .BI de FreeBasic) para acceder a la DLL del emulador FAME de Motorola 68000.
